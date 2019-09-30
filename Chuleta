@@ -1,0 +1,12 @@
+Chuleta Djangogirls
+
+1. Version windows, mejor opción tecla windows+Break
+2. Comando para averiguar si se instaló python es sin el 3
+python --version
+3. Visual studio code
+4. Crea environment
+En cmd ir al directorio creado
+dir cd y dentro ejecutar
+C:\Users\Name\djangogirls> python -m venv myvenv 
+
+Git installation
